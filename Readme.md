@@ -6,42 +6,13 @@
 - [Documentação](#-documentação-do-projeto)
 - [Instalação](#instalação-com-bash)
 - [Demonstração Código Resumido](#demonstração-código-resumido)
-  - [- `models/Aluno.js`](#--modelsalunojs)
+  - [- `models/usuarioModels.js`](#--modelsusuariomodeljs)
   - [- `database/index.js`](#--databaseindexjs)
   - [- `app.js`](#--appjs)
 
 ## 🌟 Objetivo:
 
-### 🎯 Veja essa tabela e escreva a query pedida no fim:
-
-Tabela - provas
-📍Colunas:
-📍 id_aluno - número
-📍 id_materia - número
-📍 nota - número flutuante
-📍 data_da_prova data
-
-Tabela - aluno
-📍 colunas:
-📍 id numero
-📍 nome string
-📍 data_nascimento numero
-
-Tabela - professor
-📍 colunas:
-📍 id numero
-📍 nome string
-📍 data_nascimento numero
-
-Tabela - materia
-📍 colunas:
-📍 id numero
-📍 nome string
-📍 id_professor numero
-
-🎯 Crie 3 alunos;
-🎯 Crie uma matéria e um professor;
-🎯 Crie 1 prova para cada aluno nessa matéria e diga que nota eles tiraram.
+Criar uma tabela fictícia e depois faça uma query para cada item de um CRUD - Criar uma linha, selecionar(ler), editá-la e apaga-la.
 
 ## 📖 Documentação do Projeto
 
@@ -49,7 +20,7 @@ Tabela - materia
 
 <img src ="././public/assets/images/doc.png" alt="Descrição da Imagem" height="45">
 
-[✨ **Clique aqui para saber mais da documentação** ✨](https://github.com/RaizerTechDev/tarefaStackX-tabelas-query/blob/master/Documentation.md)
+[✨ **Clique aqui para saber mais da documentação** ✨](https://github.com/RaizerTechDev/tarefasStackX-itemCrud/blob/master/Documentation.md)
 
 <br>
 

@@ -1,7 +1,4 @@
 # Projeto CRUD com MongoDB e Mongoose
-
-Este projeto é uma aplicação CRUD simples utilizando **MongoDB**, **Mongoose** e **Node.js**. Ele conecta ao banco de dados MongoDB, realiza operações CRUD e exibe os resultados no console em formato de tabela.
-
 ---
 
 ## Sumário
@@ -20,6 +17,7 @@ Este projeto é uma aplicação CRUD simples utilizando **MongoDB**, **Mongoose*
 ---
 
 ## 1. Organização do Projeto
+Este projeto é uma aplicação CRUD simples utilizando **MongoDB**, **Mongoose** e **Node.js**. Ele conecta ao banco de dados MongoDB, realiza operações CRUD e exibe os resultados no console em formato de tabela.
 
 ### 1.1 Estrutura do Projeto
 
