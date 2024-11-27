@@ -11,8 +11,19 @@
   - [- `app.js`](#--appjs)
 
 ## 🌟 Objetivo:
+🔍 Desafio Estratégico:
+ Crie uma tabela fictícia 📋 e, em seguida, demonstre o poder de um CRUD com queries específicas para cada ação:
 
-Criar uma tabela fictícia e depois faça uma query para cada item de um CRUD - Criar uma linha, selecionar(ler), editá-la e apaga-la.
+1️⃣ Criar uma nova linha na tabela.
+2️⃣ Realizar uma leitura (seleção) dos dados.
+3️⃣ Update (editar) os dados existentes.
+4️⃣ Deletar uma linha específica.
+
+🎯 Coloque em prática suas habilidades com essas operações essenciais! 🚀
+
+<br>
+
+---
 
 ## 📖 Documentação do Projeto
 
